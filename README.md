@@ -1,6 +1,6 @@
 # Discord Music BOT
 
-@COPYRIGHT 2022 Petre Radu
+@2022 Petre Radu
 --------------------------------------------------------------------------------
 
 The main purpose of this music bot was to provide a simple solution for playing music in Discord servers while being hosted locally. 
